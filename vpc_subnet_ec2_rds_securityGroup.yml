@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: Create EC2 Instance
+Description: Create VPC_Subnet_EC2_RDS_SecurityGroup
 Parameters:
   InstanceType:
     Description: EC2 instance type
